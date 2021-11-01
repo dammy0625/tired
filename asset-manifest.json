@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/tired/static/css/main.34f4f330.chunk.css",
+    "main.js": "/tired/static/js/main.320c2017.chunk.js",
+    "main.js.map": "/tired/static/js/main.320c2017.chunk.js.map",
+    "runtime-main.js": "/tired/static/js/runtime-main.fadced7f.js",
+    "runtime-main.js.map": "/tired/static/js/runtime-main.fadced7f.js.map",
+    "static/js/2.9f780754.chunk.js": "/tired/static/js/2.9f780754.chunk.js",
+    "static/js/2.9f780754.chunk.js.map": "/tired/static/js/2.9f780754.chunk.js.map",
+    "static/js/3.0b7e8925.chunk.js": "/tired/static/js/3.0b7e8925.chunk.js",
+    "static/js/3.0b7e8925.chunk.js.map": "/tired/static/js/3.0b7e8925.chunk.js.map",
+    "index.html": "/tired/index.html",
+    "static/css/main.34f4f330.chunk.css.map": "/tired/static/css/main.34f4f330.chunk.css.map",
+    "static/js/2.9f780754.chunk.js.LICENSE.txt": "/tired/static/js/2.9f780754.chunk.js.LICENSE.txt",
+    "static/media/angel.b2b84b96.jpg": "/tired/static/media/angel.b2b84b96.jpg",
+    "static/media/black-girl-holding-her-head.ed63e09f.png": "/tired/static/media/black-girl-holding-her-head.ed63e09f.png",
+    "static/media/black-man-in-bed-462x462.27be9de4.jpg": "/tired/static/media/black-man-in-bed-462x462.27be9de4.jpg",
+    "static/media/ebuka.71189d81.jpg": "/tired/static/media/ebuka.71189d81.jpg",
+    "static/media/fork.0107dd51.jpg": "/tired/static/media/fork.0107dd51.jpg",
+    "static/media/hug.885e9311.jpg": "/tired/static/media/hug.885e9311.jpg",
+    "static/media/patrick.6eea86b0.png": "/tired/static/media/patrick.6eea86b0.png",
+    "static/media/rela.2200838d.jpg": "/tired/static/media/rela.2200838d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fadced7f.js",
+    "static/js/2.9f780754.chunk.js",
+    "static/css/main.34f4f330.chunk.css",
+    "static/js/main.320c2017.chunk.js"
+  ]
+}
