@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/tired/static/css/main.cd859bad.chunk.css",
-    "main.js": "/tired/static/js/main.9c2541fb.chunk.js",
-    "main.js.map": "/tired/static/js/main.9c2541fb.chunk.js.map",
+    "main.css": "/tired/static/css/main.ab53ce1c.chunk.css",
+    "main.js": "/tired/static/js/main.297f7d66.chunk.js",
+    "main.js.map": "/tired/static/js/main.297f7d66.chunk.js.map",
     "runtime-main.js": "/tired/static/js/runtime-main.c2122105.js",
     "runtime-main.js.map": "/tired/static/js/runtime-main.c2122105.js.map",
     "static/js/2.d7579799.chunk.js": "/tired/static/js/2.d7579799.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.ce80401f.chunk.js": "/tired/static/js/3.ce80401f.chunk.js",
     "static/js/3.ce80401f.chunk.js.map": "/tired/static/js/3.ce80401f.chunk.js.map",
     "index.html": "/tired/index.html",
-    "static/css/main.cd859bad.chunk.css.map": "/tired/static/css/main.cd859bad.chunk.css.map",
+    "static/css/main.ab53ce1c.chunk.css.map": "/tired/static/css/main.ab53ce1c.chunk.css.map",
     "static/js/2.d7579799.chunk.js.LICENSE.txt": "/tired/static/js/2.d7579799.chunk.js.LICENSE.txt",
     "static/media/angel.b2b84b96.jpg": "/tired/static/media/angel.b2b84b96.jpg",
     "static/media/bam.2e17ff7e.JPG": "/tired/static/media/bam.2e17ff7e.JPG",
@@ -41,7 +41,7 @@
   "entrypoints": [
     "static/js/runtime-main.c2122105.js",
     "static/js/2.d7579799.chunk.js",
-    "static/css/main.cd859bad.chunk.css",
-    "static/js/main.9c2541fb.chunk.js"
+    "static/css/main.ab53ce1c.chunk.css",
+    "static/js/main.297f7d66.chunk.js"
   ]
 }
